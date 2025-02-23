@@ -1,0 +1,1 @@
+# WAP to pass a,b argument in class function and return the value of Class Function.
