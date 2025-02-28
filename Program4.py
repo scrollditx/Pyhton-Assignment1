@@ -10,7 +10,7 @@ def increment_counter():
 def reset_counter():
     global counter
     counter = 0
-    print(f"Counter after increment: {counter}")
+    print(f"Counter after reset: {counter}")
 
 # Calling functions
 

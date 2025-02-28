@@ -10,7 +10,7 @@ if x > 10:
         print("Stage 2: X is between 10-20")
 else:
     print("Stage 1: X is 10 or less")
-    if x < 5:
+    if x >= 5:
         print("Stage 2: X is between 5-10")
     else:
-        print("Stage 3: X is 5 or less")
+        print("Stage 2: X is less than 5")
